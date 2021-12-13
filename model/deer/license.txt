@@ -1,11 +1,11 @@
 Model Information:
-* title:	Deer Group - Snow Globe
-* source:	https://sketchfab.com/3d-models/deer-group-snow-globe-be3a00bbb20941e58dabeddf4b5ef48f
-* author:	Rigsters (https://sketchfab.com/rigsters)
+* title:	Cottage with a garden
+* source:	https://sketchfab.com/3d-models/cottage-with-a-garden-ac46bd9a70fe4eabae056c999808844d
+* author:	ZIRODESIGN (https://sketchfab.com/zirodesign)
 
 Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Deer Group - Snow Globe" (https://sketchfab.com/3d-models/deer-group-snow-globe-be3a00bbb20941e58dabeddf4b5ef48f) by Rigsters (https://sketchfab.com/rigsters) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Cottage with a garden" (https://sketchfab.com/3d-models/cottage-with-a-garden-ac46bd9a70fe4eabae056c999808844d) by ZIRODESIGN (https://sketchfab.com/zirodesign) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
